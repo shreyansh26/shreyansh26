@@ -20,4 +20,4 @@ I work as an **AI Engineer** at **Mastercard**. I am a graduate of the class of 
 ### 📫 How to reach me
 - 🐦 Twitter: [@shreyansh_26](https://twitter.com/shreyansh_26)
 - 👥 LinkedIn [Shreyansh Singh](https://www.linkedin.com/in/shreyansh26/)
-- 💻 Website: [https://shreyansh.tech](https://shreyansh.tech)
+- 💻 Website: [https://shreyansh.tech](https://shreyansh26.github.io)
