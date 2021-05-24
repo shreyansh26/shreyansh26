@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I work as an **AI Engineer** at **Mastercard**. I am a graduate of the class of 2020 in Computer Science from **Indian Institute of Technology (BHU) Varanasi**. I'm passionate about AI/ML, Reverse Enginnering, Cryptography, CTFs and the intersection of Cybersecurity and Machine Learning. I love to take on interesting major and minor side projects, all of which you can check out here.
 
+![](https://komarev.com/ghpvc/?username=shreyansh26&color=blue)
+
 ### 📫 How to reach me
 - 🐦 Twitter: [@shreyansh_26](https://twitter.com/shreyansh_26)
 - 👥 LinkedIn [Shreyansh Singh](https://www.linkedin.com/in/shreyansh26/)
