@@ -23,3 +23,5 @@ I work as an **AI Engineer** at **Mastercard**. I am a graduate of the class of 
 - 🐦 Twitter: [@shreyansh_26](https://twitter.com/shreyansh_26)
 - 👥 LinkedIn [Shreyansh Singh](https://www.linkedin.com/in/shreyansh26/)
 - 💻 Website: [https://shreyansh26.github.io](https://shreyansh26.github.io)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shreyansh26&show_icons=true&count_private=true&theme=tokyonight" alt="shreyansh26" />
