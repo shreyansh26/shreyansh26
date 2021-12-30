@@ -26,6 +26,11 @@ I work as an **AI Engineer** at **Mastercard**. I am a graduate of the class of 
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PPML Series #3 - Federated Learning for Mobile Keyboard Prediction](https://shreyansh26.github.io/post/2021-12-27_federated_learning_mobile_keyboard/)
+- [PPML Series #2 - Federated Optimization Algorithms - FedSGD and FedAvg](https://shreyansh26.github.io/post/2021-12-18_federated_optimization_fedavg/)
+- [PPML Series #1 - An introduction to Federated Learning](https://shreyansh26.github.io/post/2021-12-11_intro_to_federated_learning/)
+- [MeTGAN: Memory efficient Tabular GAN for high cardinality categorical datasets](https://shreyansh26.github.io/publication/metgan/)
+- [CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds](https://shreyansh26.github.io/publication/curl-fraud/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shreyansh26&show_icons=true&count_private=true&theme=tokyonight" alt="shreyansh26" />
