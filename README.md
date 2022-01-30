@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I work as an **Applied AI Software Engineer** at **Level AI**. I have an overall 1.5 years of full time experience working on Applied AI and research. I have previously worked as an AI Engineer at Mastercard AI Garage as well. I am a graduate of the class of 2020 in Computer Science from **Indian Institute of Technology (BHU) Varanasi**. I'm passionate about Natural Language Processing, Privacy-presrving ML, Model Compression and Cryptography. I love to take on interesting major and minor side projects, all of which you can check out here.
+I work as an **Applied AI Software Engineer** at **Level AI**. I have an overall 1.5 years of full time experience working on Applied AI and research. I have previously worked as an **AI Engineer** at **Mastercard AI Garage** as well. I am a graduate of the class of 2020 in Computer Science from **Indian Institute of Technology (BHU) Varanasi**. I'm passionate about Natural Language Processing, Privacy-presrving ML, Model Compression and Cryptography. I love to take on interesting major and minor side projects, all of which you can check out here.
 
 ![](https://komarev.com/ghpvc/?username=shreyansh26&color=blue)
 
