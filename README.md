@@ -26,11 +26,11 @@ I work as an **Applied AI Software Engineer** at **Level AI**. I have an overall
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Machine Learning models using GCP&#39;s Google AI Platform - A Detailed Tutorial](https://shreyansh26.github.io/post/2022-03-06_model_deployment_using_gcp_google_ai_platform/)
 - [Deploying Machine Learning models using AWS Lambda and Github Actions - A Detailed Tutorial](https://shreyansh26.github.io/post/2022-01-23_model_deployment_using_aws_lambda/)
 - [PPML Series #3 - Federated Learning for Mobile Keyboard Prediction](https://shreyansh26.github.io/post/2021-12-27_federated_learning_mobile_keyboard/)
 - [PPML Series #2 - Federated Optimization Algorithms - FedSGD and FedAvg](https://shreyansh26.github.io/post/2021-12-18_federated_optimization_fedavg/)
 - [PPML Series #1 - An introduction to Federated Learning](https://shreyansh26.github.io/post/2021-12-11_intro_to_federated_learning/)
-- [MeTGAN: Memory efficient Tabular GAN for high cardinality categorical datasets](https://shreyansh26.github.io/publication/metgan/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shreyansh26&show_icons=true&count_private=true&theme=tokyonight" alt="shreyansh26" />
