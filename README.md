@@ -26,11 +26,11 @@ I work as a **Senior ML Engineer** at **Level AI**. I have close to 2.5 years of
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Academic Log | August/September 2022](https://shreyansh26.github.io/post/2022-10-13-academic_log_august_septemeber_22/)
 - [Paper Summary #7 - Efficient Transformers: A Survey](https://shreyansh26.github.io/post/2022-10-10_efficient_transformers_survey/)
 - [Academic Log | June/July 2022](https://shreyansh26.github.io/post/2022-08-04-academic_log_june_july_22/)
 - [ConvNeXt - Adversarial images generation](https://shreyansh26.github.io/project/convnext-adversarial/)
 - [Deploying Machine Learning models using GCP&#39;s Google AI Platform - A Detailed Tutorial](https://shreyansh26.github.io/post/2022-03-06_model_deployment_using_gcp_google_ai_platform/)
-- [Deploying Machine Learning models using AWS Lambda and Github Actions - A Detailed Tutorial](https://shreyansh26.github.io/post/2022-01-23_model_deployment_using_aws_lambda/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shreyansh26&show_icons=true&count_private=true&theme=tokyonight" alt="shreyansh26" />
