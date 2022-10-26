@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I work as a **Senior ML Engineer** at **Level AI**. I have close to 2.5 years of full time experience working on Applied AI and research. I have previously worked as a **Data Scientist** at **Mastercard AI Garage** as well. I am a graduate of the class of 2020 in Computer Science from **Indian Institute of Technology (BHU) Varanasi**. I'm passionate about Natural Language Processing, Privacy-presrving ML, Model Compression and Cryptography. I love to take on interesting major and minor side projects, all of which you can check out here.
+I am working as a **Senior ML Engineer** at **Level AI**. I have close to 2.5 years of full time experience working on Applied AI and research. I have previously worked as a **Data Scientist** at **Mastercard AI Garage** as well. I am a graduate of the class of 2020 in Computer Science from **Indian Institute of Technology (BHU) Varanasi**. I'm passionate about Natural Language Processing, Privacy-presrving ML, Model Compression and Cryptography. I love to take on interesting major and minor side projects, all of which you can check out here.
 
 ![](https://komarev.com/ghpvc/?username=shreyansh26&color=blue)
 
 ### 📫 How to reach me
 - 🐦 Twitter: [@shreyansh_26](https://twitter.com/shreyansh_26)
-- 👥 LinkedIn [Shreyansh Singh](https://www.linkedin.com/in/shreyansh26/)
+- 👥 LinkedIn: [Shreyansh Singh](https://www.linkedin.com/in/shreyansh26/)
 - 💻 Website: [https://shreyansh26.github.io](https://shreyansh26.github.io)
 
 ### 📕 Latest Blog Posts
