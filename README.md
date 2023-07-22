@@ -26,11 +26,11 @@ I am working as a **Lead ML Engineer** at **Level AI**. I have close to 3 years 
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving Substitution Ciphers using Markov Chain Monte Carlo &lpar;MCMC&rpar;](https://shreyansh26.github.io/post/2023-07-22_solving_substitution_cipher_using_mcmc/)
 - [Flash Attention in Pytorch](https://shreyansh26.github.io/project/flash-attention-pytorch/)
 - [KV Cache in Nanogpt](https://shreyansh26.github.io/project/kv-cache-nanogpt/)
 - [Paper Summary #9 - Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training](https://shreyansh26.github.io/post/2023-05-28_sophia_scalable_second_order_optimizer_llms/)
 - [Paper Summary #8 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://shreyansh26.github.io/post/2023-03-26_flash-attention/)
-- [Academic Log | October-December 2022](https://shreyansh26.github.io/post/2023-01-03-academic_log_october_december_22/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shreyansh26&show_icons=true&count_private=true&theme=tokyonight" alt="shreyansh26" />
