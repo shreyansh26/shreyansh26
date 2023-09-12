@@ -32,5 +32,3 @@ I am working as a **Lead ML Engineer** at **Level AI**. I have close to 3 years 
 - [Paper Summary #9 - Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training](https://shreyansh26.github.io/post/2023-05-28_sophia_scalable_second_order_optimizer_llms/)
 - [Paper Summary #8 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://shreyansh26.github.io/post/2023-03-26_flash-attention/)
 <!-- BLOG-POST-LIST:END -->
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shreyansh26&show_icons=true&count_private=true&theme=tokyonight" alt="shreyansh26" />
