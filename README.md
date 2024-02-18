@@ -26,9 +26,9 @@ I am working as a **Lead ML Engineer** at **Level AI**. I have more than 3 years
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Paper Summary #12 - Image Recaptioning in DALL-E 3](https://shreyansh26.github.io/post/2024-02-18_dalle3_image_recaptioner/)
+- [Paper Summary #11 - Sora](https://shreyansh26.github.io/post/2024-02-18_sora_openai/)
+- [Optimized NN Inference using custom Triton kernels](https://shreyansh26.github.io/project/linear-layer-triton/)
+- [Paper Summary #10 - Gemini 1.5 Pro](https://shreyansh26.github.io/post/2024-02-18_gemini_pro_google/)
 - [Solving Substitution Ciphers using Markov Chain Monte Carlo &lpar;MCMC&rpar;](https://shreyansh26.github.io/post/2023-07-22_solving_substitution_cipher_using_mcmc/)
-- [Flash Attention in Pytorch](https://shreyansh26.github.io/project/flash-attention-pytorch/)
-- [KV Cache in Nanogpt](https://shreyansh26.github.io/project/kv-cache-nanogpt/)
-- [Paper Summary #9 - Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training](https://shreyansh26.github.io/post/2023-05-28_sophia_scalable_second_order_optimizer_llms/)
-- [Paper Summary #8 - FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://shreyansh26.github.io/post/2023-03-26_flash-attention/)
 <!-- BLOG-POST-LIST:END -->
