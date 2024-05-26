@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am working as a **Lead ML Engineer** at **Level AI**. I have more than 3 years of full time experience working on applied AI and research. I have previously worked as a **Data Scientist** at **Mastercard AI Garage** as well, where we were leveraging AI to make the transactions world a smarter and secure place. I am a graduate of the class of 2020 in Computer Science from **Indian Institute of Technology (BHU) Varanasi**. I'm passionate about Natural Language Processing, Privacy-presrving ML, Model Compression and Cryptography. I love to take on interesting major and minor side projects, all of which you can check out here.
+I am working as a **Lead ML Engineer** at **Level AI** where I am working on building and scaling LLMs for conversational data. I have close to 4 years of full-time experience working on applied AI and research. I have previously worked as a **Data Scientist** at **Mastercard AI Garage** as well, where we were leveraging AI to make the transactions world a smarter and more secure place. I am a graduate of the class of 2020 in Computer Science from **Indian Institute of Technology (BHU) Varanasi**. I'm passionate about Natural Language Processing, ML Systems Engineering, Privacy-preserving ML, and Cryptography. I love to take on interesting major and minor side projects, all of which you can check out here.
 
 ![](https://komarev.com/ghpvc/?username=shreyansh26&color=blue)
 
