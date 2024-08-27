@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am working as a **Lead ML Engineer** at **Level AI** where I am working on building and scaling LLMs for conversational data. I have close to 4 years of full-time experience working on applied AI and research. I have previously worked as a **Data Scientist** at **Mastercard AI Garage** as well, where we were leveraging AI to make the transactions world a smarter and more secure place. I am a graduate of the class of 2020 in Computer Science from **Indian Institute of Technology (BHU) Varanasi**. I'm passionate about Natural Language Processing, ML Systems Engineering, Privacy-preserving ML, and Cryptography. I love to take on interesting major and minor side projects, all of which you can check out here.
+I’m the **Lead ML Engineer** at **Level AI**, where I focus on building and scaling large language models (LLMs) specifically for conversational AI. With over four years of experience in applied AI and research, I’ve worked extensively on end-to-end solutions in NLP and ML systems.
+
+Before Level AI, I worked as a **Data Scientist** at **Mastercard AI Garage**, where I developed AI models to enhance transaction security and intelligence. I graduated in 2020 with a degree in Computer Science from the **Indian Institute of Technology (BHU) Varanasi**.
+
+My technical interests include Natural Language Processing, ML Systems Engineering—including CUDA and Triton for high-performance computing, Privacy-preserving ML, and Cryptography. 
+
+I’m always working on side projects, many of which involve implementing and experimenting with ideas from research papers, efficient kernelsand other advanced techniques in these areas. You can find these projects here.
+
+
 
 ![](https://komarev.com/ghpvc/?username=shreyansh26&color=blue)
 
