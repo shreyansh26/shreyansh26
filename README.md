@@ -28,7 +28,7 @@ I’m always working on side projects, many of which involve implementing and ex
 ![](https://komarev.com/ghpvc/?username=shreyansh26&color=blue)
 
 ### 📫 How to reach me
-- 🐦 Twitter: [@shreyansh_26](https://twitter.com/shreyansh_26)
+- 𝕏 Twitter/X: [@shreyansh_26](https://twitter.com/shreyansh_26)
 - 👥 LinkedIn: [Shreyansh Singh](https://www.linkedin.com/in/shreyansh26/)
 - 💻 Website: [https://shreyansh26.github.io](https://shreyansh26.github.io)
 
