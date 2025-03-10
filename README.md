@@ -21,7 +21,7 @@ Before Level AI, I worked as a **Data Scientist** at **Mastercard AI Garage**, w
 
 My technical interests include Natural Language Processing, ML Systems Engineering—including CUDA and Triton for high-performance computing, Privacy-preserving ML, and Cryptography. 
 
-I’m always working on side projects, many of which involve implementing and experimenting with ideas from research papers, efficient kernelsand other advanced techniques in these areas. You can find these projects here.
+I’m always working on side projects, many of which involve implementing and experimenting with ideas from research papers, efficient kernels and other low-level stuff in LLM training/inference regime. You can find these projects here.
 
 
 
