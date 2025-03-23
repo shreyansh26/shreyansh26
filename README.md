@@ -34,9 +34,9 @@ I’m always working on side projects, many of which involve implementing and ex
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes from GTC’25: CUDA Techniques to Maximize Memory Bandwidth and Hide Latency - Part 1](https://shreyansh26.github.io/post/2025-03-23_gtc25-maximize-memory-bandwidth-part-1/)
 - [Faster Cross-Encoder Inference: Unleashing torch.compile for speed](https://shreyansh26.github.io/post/2025-03-02_cross-encoder-inference-torch-compile/)
 - [Paper Summary #13 - Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://shreyansh26.github.io/post/2024-09-21_physics-of-lms-2-1-grade-school-math-and-the-hidden-reasoning-process/)
 - [Paper Summary #12 - Image Recaptioning in DALL-E 3](https://shreyansh26.github.io/post/2024-02-18_dalle3_image_recaptioner/)
 - [Paper Summary #11 - Sora](https://shreyansh26.github.io/post/2024-02-18_sora_openai/)
-- [Paper Summary #10 - Gemini 1.5 Pro](https://shreyansh26.github.io/post/2024-02-18_gemini_pro_google/)
 <!-- BLOG-POST-LIST:END -->
