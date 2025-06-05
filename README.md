@@ -34,9 +34,9 @@ I’m always working on side projects, many of which involve implementing and ex
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deriving the Gradient for the Backward Pass of Layer Normalization](https://shreyansh26.github.io/post/2025-06-04_layernorm-gradients/)
 - [Notes from GTC’25: CUDA Techniques to Maximize Compute and Instruction Throughput](https://shreyansh26.github.io/post/2025-04-04_gtc25-maximize-compute-instruction-throughput/)
 - [Notes from GTC’25: CUDA Techniques to Maximize Memory Bandwidth and Hide Latency - Part 1](https://shreyansh26.github.io/post/2025-03-23_gtc25-maximize-memory-bandwidth-part-1/)
 - [Notes from GTC’25: CUDA Techniques to Maximize Memory Bandwidth and Hide Latency - Part 2](https://shreyansh26.github.io/post/2025-03-23_gtc25-maximize-memory-bandwidth-part-2/)
 - [Faster Cross-Encoder Inference: Unleashing torch.compile for speed](https://shreyansh26.github.io/post/2025-03-02_cross-encoder-inference-torch-compile/)
-- [Paper Summary #13 - Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://shreyansh26.github.io/post/2024-09-21_physics-of-lms-2-1-grade-school-math-and-the-hidden-reasoning-process/)
 <!-- BLOG-POST-LIST:END -->
