@@ -34,9 +34,9 @@ I’m always working on side projects, many of which involve implementing and ex
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep dive into CUDA Scan Kernels: Hierarchical and Single-Pass Variants](https://shreyansh26.github.io/post/2026-02-19_cuda-scan-kernels/)
 - [Paper Summary #14 - Physics of Language Models: Part 3.1, Knowledge Storage and Extraction](https://shreyansh26.github.io/post/2026-01-17_physics-of-lms-3-1-knowledge-storage-and-extraction/)
 - [Understanding Multi-Head Latent Attention &lpar;MLA&rpar;](https://shreyansh26.github.io/post/2025-11-08_multihead-latent-attention/)
 - [Deriving the Gradient for the Backward Pass of Layer Normalization](https://shreyansh26.github.io/post/2025-06-04_layernorm-gradients/)
 - [Notes from GTC’25: CUDA Techniques to Maximize Compute and Instruction Throughput](https://shreyansh26.github.io/post/2025-04-04_gtc25-maximize-compute-instruction-throughput/)
-- [Notes from GTC’25: CUDA Techniques to Maximize Memory Bandwidth and Hide Latency - Part 1](https://shreyansh26.github.io/post/2025-03-23_gtc25-maximize-memory-bandwidth-part-1/)
 <!-- BLOG-POST-LIST:END -->
