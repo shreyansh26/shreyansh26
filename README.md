@@ -34,9 +34,9 @@ I’m always working on side projects, many of which involve implementing and ex
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Decompose-K: From torch.compile to Hand-Tuned Triton Kernels for Skinny Large‑K Matmuls](https://shreyansh26.github.io/post/2026-06-21_decompose-k-triton/)
 - [KV Cache Compaction and Compression: From Attention Sinks to Learned Memory](https://shreyansh26.github.io/post/2026-06-01_kv-cache-compaction-compression/)
 - [Paper Summary #17 - Engram](https://shreyansh26.github.io/post/2026-05-17_engram-layers/)
 - [Paper Summary #16 - Canon Layers](https://shreyansh26.github.io/post/2026-05-16_canon-layers/)
 - [Paper Summary #15 - Hyper-Connections and mHC](https://shreyansh26.github.io/post/2026-05-15_hyper-connections-mhc/)
-- [Deep dive into CUDA Scan Kernels: Hierarchical and Single-Pass Variants](https://shreyansh26.github.io/post/2026-02-19_cuda-scan-kernels/)
 <!-- BLOG-POST-LIST:END -->
