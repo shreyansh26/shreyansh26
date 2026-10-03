@@ -1,4 +1,4 @@
-## 👋 Hi there!
+## Hi, I’m Shreyansh 👋
 
 <!--
 **shreyansh26/shreyansh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m the **Director of AI Research** at **Level AI**, where I focus on building and scaling large language models (LLMs) specifically for conversational AI. With over five years of experience in applied AI and research, I’ve worked extensively on end-to-end solutions in NLP and ML systems.
+I’m the Director of AI Research at **Level AI**, working on LLMs
+for conversational AI. My current focus is **inference optimization,
+post-training, and agent harnesses**.
 
-Before Level AI, I worked as a **Data Scientist** at **Mastercard AI Garage**, where I developed AI models to enhance transaction security and intelligence. I graduated in 2020 with a degree in Computer Science from the **Indian Institute of Technology (BHU) Varanasi**.
+I like understanding how models work—from the ideas in a paper to
+the kernels and systems that make them run efficiently. This GitHub
+is where I implement papers, experiment with CUDA and Triton, and
+build tools I want to use.
 
-My technical interests include Natural Language Processing (SFT/RL post-training, inference optimization), ML Systems Engineering - including CUDA and Triton for high-performance computing, Privacy-preserving ML, and Cryptography. 
+### What I work on
 
-I’m always working on side projects, many of which involve implementing and experimenting with ideas from research papers, efficient kernels and other low-level stuff in LLM training/inference regime. You can find these projects here.
+- **LLM inference:** attention, speculative decoding, sampling,
+  KV caches, and GPU kernels.
+- **Post-training:** supervised fine-tuning and reinforcement learning.
+- **Agents:** harnesses and tools for useful, reliable workflows.
 
-
+Previously at **Mastercard AI Garage** and **Samsung Research**.
+Computer Science, **IIT (BHU) Varanasi**, 2020.
 
 ![](https://komarev.com/ghpvc/?username=shreyansh26&color=blue)
 
